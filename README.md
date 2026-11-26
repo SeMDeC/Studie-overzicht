@@ -107,3 +107,7 @@ Dat verwijdert de geplande taken, de snelkoppelingen en de vakknoppen. Deadlines
 | `OpenVak.ps1` | Opent de cursussen, Blackboard en programma's van een vak |
 | `Server.ps1` | De lokale webserver voor het dashboard en de vakknoppen |
 | `Installeer.ps1` | Installeren en verwijderen |
+
+## Licentie
+
+[MIT](LICENSE): je mag de code vrij gebruiken, aanpassen en delen, zolang de licentietekst erbij blijft.
