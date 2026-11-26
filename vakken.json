@@ -1,0 +1,81 @@
+﻿{
+    "Browser":  "",
+    "BladwijzerMap":  "Online cursussen",
+    "BlackboardUrl":  "https://blackboard.pxl.be/ultra/courses/{0}/outline",
+    "Vakken":  [
+                   {
+                       "Id":  "networks",
+                       "Naam":  "Networks 1",
+                       "Code":  "41SNE1010",
+                       "Bladwijzers":  [
+                                           "Networks 1"
+                                       ],
+                       "Blackboard":  "_65586_1",
+                       "Programmas":  [
+                                          "C:\\Program Files\\Cisco Packet Tracer*\\bin\\PacketTracer.exe",
+                                          "C:\\Program Files\\Wireshark\\Wireshark.exe",
+                                          "wt.exe"
+                                      ]
+                   },
+                   {
+                       "Id":  "linux",
+                       "Naam":  "Linux Essentials",
+                       "Code":  "41SNE1030",
+                       "Bladwijzers":  [
+                                           "Linux Essentials*"
+                                       ],
+                       "Blackboard":  "_65588_1",
+                       "Programmas":  [
+                                          "C:\\Program Files\\VMware\\VMware Workstation\\vmware.exe"
+                                      ]
+                   },
+                   {
+                       "Id":  "windows",
+                       "Naam":  "Windows Essentials",
+                       "Code":  "41SNE1020",
+                       "Bladwijzers":  [
+                                           "Windows Essentials"
+                                       ],
+                       "Blackboard":  "_65587_1",
+                       "Programmas":  [
+                                          "C:\\Program Files\\VMware\\VMware Workstation\\vmware.exe"
+                                      ]
+                   },
+                   {
+                       "Id":  "werkplekleren",
+                       "Naam":  "Werkplekleren 1",
+                       "Code":  "41SNE1060",
+                       "Bladwijzers":  [
+
+                                       ],
+                       "Blackboard":  "_65590_1",
+                       "Programmas":  [
+
+                                      ]
+                   },
+                   {
+                       "Id":  "itorganisation",
+                       "Naam":  "IT Organisation 1",
+                       "Code":  "41SNE1120",
+                       "Bladwijzers":  [
+
+                                       ],
+                       "Blackboard":  "_65596_1",
+                       "Programmas":  [
+
+                                      ]
+                   },
+                   {
+                       "Id":  "commskills",
+                       "Naam":  "Communication Skills 1",
+                       "Code":  "41SNE1050",
+                       "Bladwijzers":  [
+
+                                       ],
+                       "Blackboard":  "_68947_1",
+                       "Programmas":  [
+
+                                      ]
+                   }
+               ]
+}

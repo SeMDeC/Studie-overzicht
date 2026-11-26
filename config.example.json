@@ -1,0 +1,28 @@
+﻿{
+    "TimeEditIcs":  "https://cloud.timeedit.net/be_pxl/web/stud/JOUW-PERSOONLIJKE-LINK.ics",
+    "MailDagenTerug":  30,
+    "SchoolmailDagenTonen":  7,
+    "DeadlinesInOutlook":  true,
+    "HerinneringMinutenVooraf":  2880,
+    "DeadlineMaxDagenVooruit":  120,
+    "DeadlineCategorie":  "Deadline",
+    "SignaalWoorden":  [
+                           "deadline",
+                           "indienen",
+                           "inleveren",
+                           "ingeleverd",
+                           "ten laatste",
+                           "uiterlijk",
+                           "verplicht",
+                           "herinnering",
+                           "examen",
+                           "test",
+                           "toets",
+                           "sprint"
+                       ],
+    "SchoolAfzenders":  [
+                            "pxl.be",
+                            "blackboard.com",
+                            "41SNE"
+                        ]
+}
